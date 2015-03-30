@@ -1,8 +1,14 @@
 body {
   background-image: url(../img/coffee-coffee-beans-java-2645317-1920x1080.jpg);
   background-size: 90%;
-}
 
+}
+h1{
+	color:white;
+}
+p{
+	color:white;
+}
 .fikaGenerator{
 	margin-left: 40%;
 }
